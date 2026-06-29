@@ -1,1 +1,2 @@
-# advanced-object-oriented-programing-
+# advanced-object-oriented-programing
+A Java application demonstrating object-oriented design principles through a basketball roster management system. The architecture employs abstract inheritance with position-specific subclasses (Guard, Forward, Center), each overriding methods to compute position-specific advanced statistics. Duplicate prevention is enforced via a HashSet with custom equals() and hashCode() implementations. The application supports GUI-based roster management and persistent file I/O.
